@@ -1,0 +1,42 @@
+{
+  "Data": [
+{
+  "series":"series1",
+  "data":[
+      {
+          "label":"maninder",
+          "value":500   
+      },
+      {
+          "label":"sanjay",
+          "value":400
+      },
+      {
+          "label":"ajith",
+          "value":300
+      },
+      {
+          "label":"parth",
+          "value":470
+      },
+      {
+          "label":"saurabh",
+          "value":420
+      },
+       {
+          "label":"anita",
+          "value":150
+      },
+      {
+          "label":"shivam",
+          "value":140
+      },
+   {
+          "label":"mukesh",
+          "value":330
+      }
+
+  ]
+}
+  ]
+}
